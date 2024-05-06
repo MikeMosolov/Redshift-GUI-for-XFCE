@@ -5,6 +5,7 @@ Steps to reproduce:
 2. XFCE4
 3. python3 (bash and wx modules)
 4. virtualenvwrapper
+5. computer
 
 Best,
 Mike
