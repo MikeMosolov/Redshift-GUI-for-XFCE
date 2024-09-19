@@ -5,7 +5,8 @@ Steps to reproduce:
 2. XFCE4
 3. python3 (bash and wx modules)
 4. virtualenvwrapper (optional)
-5. A computer
+5. Launcher entry binded to toolbar icon.
+6. A computer
 
 Best,
 Mike
